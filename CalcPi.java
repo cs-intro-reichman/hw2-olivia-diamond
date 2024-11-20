@@ -18,7 +18,7 @@ c = 4*c;
 double pi = Math.PI;
 
 
-System.out.println(c);
-System.out.println(pi);
+System.out.println("pi according to Java: " + pi);
+System.out.println("pi approximated:     " + c);
 	}
 }
