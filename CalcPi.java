@@ -19,6 +19,6 @@ double pi = Math.PI;
 
 
 System.out.println("pi according to Java: " + pi);
-System.out.println("pi approximated:     " + c);
+System.out.println("pi, approximated:     " + c);
 	}
 }
